@@ -1,10 +1,17 @@
-# Getting Started with Create React App
+# MTG inventory
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is the front end piece for building an MTG inventory. 
 
-## Available Scripts
+## Why?
 
-In the project directory, you can run:
+I really liked deckbox.org, however it was limited in the fact that you can't add graded or sealed product to your inventory. As state from the project the primary goal is focused around a great inventory management system first. Then other features later.
+
+I really just wanted to create an inventory management system that was dependent on what I wanted vs what the others give you. I also wanted it to be mobile first.
+
+### Planned Features
+
+- [] Inventory
+
 
 ### `npm start`
 
