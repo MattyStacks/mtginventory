@@ -19,7 +19,7 @@ function App() {
 
       <Header />
       <Inventory />
-      <Footer />
+      {/* <Footer /> */}
 
     </div>
     </div>

@@ -14,6 +14,8 @@ Most of the planned features will be added to a trello board to keep track of pr
 
 [https://trello.com/b/hqROBLfw/mtg-inventory-site](https://trello.com/b/hqROBLfw/mtg-inventory-site)
 
+## Wanna Help?
+I'm always looking for people who can write better javascript, and react than I can that can help me make this the best inventory collection management around.
 
 ### `npm start`
 
